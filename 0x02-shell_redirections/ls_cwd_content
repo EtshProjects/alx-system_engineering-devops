@@ -1,0 +1,16 @@
+total 4
+drwxr-xr-x 1 etsh etsh  512 Jun 16 01:57 .
+drwxr-xr-x 1 etsh etsh  512 Jun 14 00:18 ..
+-rwxr--r-- 1 etsh etsh   32 Jun 14 00:20 0-hello_world
+-rwxr--r-- 1 etsh etsh   28 Jun 14 00:36 1-confused_smiley
+-rwxr--r-- 1 etsh etsh   28 Jun 14 00:44 2-hellofile
+-rwxr--r-- 1 etsh etsh   39 Jun 14 21:41 3-twofiles
+-rwxr--r-- 1 etsh etsh   29 Jun 14 23:55 4-lastlines
+-rwxr--r-- 1 etsh etsh   29 Jun 15 00:21 5-firstlines
+-rwxr--r-- 1 etsh etsh   40 Jun 15 00:00 6-third_line
+-rwxr--r-- 1 etsh etsh   99 Jun 15 00:16 7-file
+-rwxr--r-- 1 etsh etsh   37 Jun 16 01:57 8-cwd_state
+-rw-r--r-- 1 etsh etsh   44 Jun 14 00:31 README.md
+-rw-r--r-- 1 etsh etsh   12 Jun 15 00:19 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rwxr--r-- 1 etsh etsh 1601 Jun 15 00:04 iacta
+-rw-r--r-- 1 etsh etsh    0 Jun 16 01:57 ls_cwd_content
